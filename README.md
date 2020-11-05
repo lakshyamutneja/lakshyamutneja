@@ -8,7 +8,7 @@ And also an optimisitic, curious and well-focused developer. :sparkles: <br>
 I am been Cloud and Devops Enthusiast.:cloud: <br>
 
 
-Besides coding, I like Cooking :Cooking: and sleeping :sleeping:
+Besides coding, I like Cooking and sleeping :sleeping:
 
 - :technologist: Code: Python, Springboot, Google Analytics, Big Data, Hadoop.
 - :cloud: Technologies: Cloud and Devops (AWS, Docker, Kubernetes, CircleCi ) 
