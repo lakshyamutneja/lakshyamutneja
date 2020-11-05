@@ -2,14 +2,15 @@
 
 <img align='right' src="https://media.giphy.com/media/26AHQZIPyUFmJlela/giphy.gif" width="230">
 
-I am a final year student at VIT, Vellore pursuing my Bachelors in Information Technology.<br>
+I am a final year student at VIT, Vellore pursuing my Bachelors in Information Technology and a self-motivated student with the ability to create new ideas to<br>
+foster the goals of a company. Curiosity is what drives my interest in technology. Currently making data driven decisions for small and large businesses.<br>
 And also an optimisitic, curious and well-focused developer. :sparkles: <br>
-I am been Cloud and Devops Enthusiast. Infrastructure as a Code is new normal these days:cloud: <br>
+I am been Cloud and Devops Enthusiast.:cloud: <br>
 
 
 Besides coding, I like Cooking :Cooking: and sleeping :sleeping:
 
-- :technologist: Code: Python, Springboot, Google Analytics.
+- :technologist: Code: Python, Springboot, Google Analytics, Big Data, Hadoop.
 - :cloud: Technologies: Cloud and Devops (AWS, Docker, Kubernetes, CircleCi ) 
 
 
