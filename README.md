@@ -1,16 +1,26 @@
-### Hi there 👋
+<h2> Hi, I'm Lakshya Mutneja! <img src="https://media.giphy.com/media/Ay3bG6MdVQJlaAXltw/giphy.gif" width="50"></h2>
 
-<!--
-**lakshyamutneja/lakshyamutneja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media.giphy.com/media/26AHQZIPyUFmJlela/giphy.gif" width="230">
 
-Here are some ideas to get you started:
+I am a final year student at VIT, Vellore pursuing my Bachelors in Information Technology.<br>
+And also an optimisitic, curious and well-focused developer. :sparkles: <br>
+I am been Cloud and Devops Enthusiast. Infrastructure as a Code is new normal these days:cloud: <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Besides coding, I like Cooking :Cooking: and sleeping :sleeping:
+
+- :technologist: Code: Python, Springboot, Google Analytics.
+- :cloud: Technologies: Cloud and Devops (AWS, Docker, Kubernetes, CircleCi ) 
+
+
+<a href="https://twitter.com/mutnejalakshya">
+  <img align="left" alt="Lakshya's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lakshyamutneja/">
+  <img align="left" alt="Lakshya's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+</a>
+
+<a href="mailto:mutnejalakshya98@gmail.com">
+  <img align="left" alt="Lakshya's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
+</a>
